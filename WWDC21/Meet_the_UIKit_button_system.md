@@ -129,3 +129,9 @@ Mac Catalyst에서 자동으로 작동한다.
 ```swift
 sortSelectionButton.menu?.selectedElements.first
 ```
+
+<br>
+
+## 참고
+
+- https://developer.apple.com/videos/play/wwdc2021/10064/
