@@ -1,4 +1,4 @@
-# ARC in Swift- Basics and beyond
+# ARC in Swift: Basics and beyond
 
 
 ## Object lifetimes and ARC
