@@ -18,7 +18,7 @@
 - Encapsulation: 그룹화
 - Access Control: 접근 제어자
 - Abstraction: 추상화
-- Namespace: sofrware가 커지면서 발생하는 충돌을 막아준다
+- Namespace: software가 커지면서 발생하는 충돌을 막아준다
 - Expressive Syntax: 저장/연산 프로퍼티, 메소드, 서브스크립션..
 - Extensibility: 나중에 필요한거 추가 가능
 
@@ -83,6 +83,7 @@ Access Control, Abstraction, Namespace는 특히 복잡성(Complexity)을 관리
 
 - as! ASubclass은 code smell 이다.
 - as! ASubclass은 type relationship이 손상됐음을 의미한다.
+- Swift는 정적 타입 언어로 변수, 상수의 타입이 컴파일 시점에 결정되는데 타입 캐스팅을 사용하면 런타임에 타입이 정해져 캐스팅에 실패하는 경우 런타임에 오류가 발생할 수 있다.
 
 ![](https://velog.velcdn.com/images/qnm83/post/3c27b3a8-0bee-4311-81a8-f42aff948220/image.png)
 
@@ -276,6 +277,6 @@ Access Control, Abstraction, Namespace는 특히 복잡성(Complexity)을 관리
 
 <br>
 
-## Reference
+## 참고
 
 - https://www.youtube.com/watch?v=p3zo4ptMBiQ
