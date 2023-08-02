@@ -146,7 +146,7 @@ Access Control, Abstraction, Namespace는 특히 복잡성(Complexity)을 관리
 ![](https://velog.velcdn.com/images/qnm83/post/c3c1b4be-9d8c-4931-9fcf-45d52fe2bc60/image.png)
 
 - circleAt은 요구사항에 있고, extension에 구현
-- rectangleAt은 요구사항에 없고, extension에 없음
+- rectangleAt은 요구사항에 없고, extension에 구현
 
 ![](https://velog.velcdn.com/images/qnm83/post/44faf538-1498-4afd-ba05-0d8b399c56e2/image.png)
 
