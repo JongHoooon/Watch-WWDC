@@ -8,6 +8,7 @@
 
 - [Meet the UIKit button system](/WWDC21/Meet_the_UIKit_button_system/Meet_the_UIKit_button_system.md)
 - [ARC in Swift: Basics and beyond](/WWDC21/ARC%20in%20Swift-%20Basics%20and%20beyond/ARC%20in%20Swift-%20Basics%20and%20beyond.md)
+- [Your guide to keyboard layout](/WWDC21/Your%20guide%20to%20keyboard%20layout/Your%20guide%20to%20keyboard%20layout.md)
 
 <br>
 
