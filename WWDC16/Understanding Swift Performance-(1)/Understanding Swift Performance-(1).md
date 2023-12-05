@@ -30,7 +30,7 @@
 
 - stack에 나란히 저장
 - 두개는 독립적인 인스턴스이다
-- 사용이 끝나면 메로리에서 해제되고 stack포인터가 올라간다.
+- 사용이 끝나면 메모리에서 해제되고 stack포인터가 올라간다.
 
 ![](https://velog.velcdn.com/images/qnm83/post/b3e3a01a-55c7-44bb-8b38-4886d399a929/image.png)
 
