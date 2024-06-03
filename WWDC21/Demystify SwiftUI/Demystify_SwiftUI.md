@@ -175,3 +175,42 @@
 - Minimizes dependency churn
 - Avoids state loss
 
+<br>
+
+- 한개만 추가해도 전체가 다시 그려지는 상황
+  - 아이디가 연상 프로퍼티라 항상 달라짐
+![alt text](image-28.png)
+
+- 0번째 인덱스에 넣는데 마지막에 추가됨
+  - computed random id 처럼 indices도 불안정
+![alt text](image-29.png)
+![alt text](image-31.png)
+
+#### Identifier uniqueness
+- Improve animation
+- also helps performance
+- correctly reflects dependencies
+
+#### Explicit identifier
+- random identifier
+- stable identifiers
+- ensure uniqueness identifier
+
+#### Structural identifier
+- Avoid unnecessary branches
+- Tightly scope dependent code
+- Prefer inert modifiers
+
+![alt text](image-32.png)
+- 2개의 content를 갖음
+- Branch 때문에 2개의 Structural identifier 발생
+
+<br>
+
+- branch 제거해 1개의 ID 갖게함
+![alt text](image-34.png)
+
+- Inert modifier
+  - rendered result에 영향이 없음
+  - modifier의 비용은 적어 내부적으로 거의 영향이 없다.
+![alt text](image-35.png)
