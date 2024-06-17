@@ -15,7 +15,8 @@
 ## WWDC 19
 
 ![](/Images/WWDC19.jpeg)
-- 
+- [SwifUI Essentials](/WWDC19/SwiftUI%20Essentials/SwiftUI%20Essentials.md)
+- [Data Flow Througn SwiftUI](/WWDC19/Data%20Flow%20Through%20SwiftUI/Data%20Flow%20Througn%20SwiftUI.md)
 
 <br>
 
